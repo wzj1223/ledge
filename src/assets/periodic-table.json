@@ -153,7 +153,9 @@
     "category": "database",
     "number": 12,
     "pay": "Os",
-    "symbol": "Fl"
+    "symbol": "Fl",
+    "description":"Flyway是一个开源的数据库迁移工具。相对于配置，它更倾向于简单和约定",
+    "homepage":"https://flywaydb.org"
   },
   {
     "name": "Redgate",
